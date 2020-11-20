@@ -1,6 +1,6 @@
 import 'package:directed_graph/src/base/directed_graph_base.dart';
 import 'package:directed_graph/src/base/graph_crawler_base.dart';
-import 'package:minimal_test/minimal_test.dart';
+import 'package:test/test.dart';
 
 /// To run the test, navigate to the folder 'directed_graph'
 /// in your local copy of this library and use the command:

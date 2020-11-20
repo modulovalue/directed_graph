@@ -18,7 +18,8 @@ dependencies:
 dev_dependencies:
   benchmark_harness: ^1.0.5
   pedantic: ^1.9.2
-  minimal_test: ^0.0.9
+  test: 1.16.0-nullsafety.10
+
 
 dependency_overrides:
   # ansicolor:
